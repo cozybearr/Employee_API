@@ -1,6 +1,6 @@
 package com.example.employeerestapi.controller;
 
-import com.example.employeerestapi.Service.EmployeeService;
+import com.example.employeerestapi.service.EmployeeService;
 import com.example.employeerestapi.model.Employee;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

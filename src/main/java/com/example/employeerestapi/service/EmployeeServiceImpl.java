@@ -1,10 +1,8 @@
-package com.example.employeerestapi.Service;
+package com.example.employeerestapi.service;
 
 import com.example.employeerestapi.model.Employee;
 import com.example.employeerestapi.repo.EmployeeRepository;
 import lombok.AllArgsConstructor;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
